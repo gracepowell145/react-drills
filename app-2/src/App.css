@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.Siblings{
+  height: 20%;
+  width: 100%;
+  background-color: #61dafb;
+  color: white;
+  text-align: center;
+  margin-top: 60px;
+  padding-top: 40px;
+}
