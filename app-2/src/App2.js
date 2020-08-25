@@ -17,7 +17,7 @@ class App2 extends Component {
 
     return(
         <div className="Siblings"> 
-        <h1>Siblings:</h1>
+        <h1></h1>
             <h3>{ourNames}</h3>
         </div>
         
